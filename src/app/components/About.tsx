@@ -43,9 +43,9 @@ export default function About() {
             I firmly believe that collaboration is the cornerstone of great
             solutions. My effective communication skills and ability to work
             harmoniously with cross-functional teams have consistently
-            contributed to the success of the projects I've been a part of. I am
-            always eager to share knowledge, learn from others, and grow as a
-            team.
+            contributed to the success of the projects I&apos;ve been a part of.
+            I am always eager to share knowledge, learn from others, and grow as
+            a team.
           </p>
 
           <h3 className="text-2xl font-semibold text-center text-blue-400">
@@ -54,7 +54,7 @@ export default function About() {
           <p>
             The ever-evolving landscape of technology excites me, and I am
             committed to continuous learning and professional development.
-            Whether it’s attending tech conferences, participating in
+            Whether it&apos;s attending tech conferences, participating in
             hackathons, or exploring the latest trends in software development,
             I am always seeking opportunities to enhance my skill set and stay
             ahead of the curve.
