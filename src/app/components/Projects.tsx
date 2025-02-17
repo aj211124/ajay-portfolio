@@ -1,8 +1,17 @@
 import { ExternalLink, Code, Building2 } from "lucide-react";
 import Image from "next/image";
 
+type Project = {
+  title: string;
+  description: string;
+  link?: string;
+  location?: string;
+  type: string;
+  image?: string;
+};
+
 export default function Projects() {
-  const professionalProjects = [
+  const professionalProjects: Project[] = [
     {
       title: "Knotbook Wedding",
       description:
@@ -48,7 +57,7 @@ export default function Projects() {
     },
   ];
 
-  const personalProjects = [
+  const personalProjects: Project[] = [
     {
       title: "Labs and Simulations",
       description:
